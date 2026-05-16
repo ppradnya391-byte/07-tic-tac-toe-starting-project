@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://github.com/ppradnya391-byte/07-tic-tac-toe-starting-project.git",
+  "homepage": "https://ppradnya391-byte.github.io/07-tic-tac-toe-starting-project/",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
